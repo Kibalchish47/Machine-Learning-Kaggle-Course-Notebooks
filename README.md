@@ -6,7 +6,6 @@ All of my exercise notebook for the Kaggle Machine-Learning-related Courses:
 - Data Cleaning (5 notebooks in respective folder)
 - Feature Engineering (6 notebooks in respective order)
 - Computer Vision (6 notebooks in respective order)
-- Time Series ()
 - Machine Learning Explainability (5 notebooks in respective folder)
 - Intro to Game AI and Reinforcement Learning (4 notebooks in respective order)
 
