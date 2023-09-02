@@ -5,7 +5,9 @@ All of my exercise notebook for the Kaggle Machine-Learning-related Courses:
 - Intermediate Machine Learning (7 notebooks in respective folder)
 - Data Cleaning (5 notebooks in respective folder)
 - Feature Engineering (6 notebooks in respective order)
-- Computer Vision ()
+- Computer Vision (6 notebooks in respective order)
 - Time Series ()
 - Machine Learning Explainability (5 notebooks in respective folder)
 - Intro to Game AI and Reinforcement Learning ()
+
+(every commit to the repository is either an addition of a single notebook, organization of a "batch" of notebooks, or a minor change to the documentation)
