@@ -8,4 +8,4 @@ All of my exercise notebook for the Kaggle Machine-Learning-related Courses:
 - Computer Vision ()
 - Time Series ()
 - Machine Learning Explainability ()
-- Intro to Game AI and Reinforcement Learning ()
+- Intro to Game AI and Reinforcement Learning (5 notebooks in respective order)
