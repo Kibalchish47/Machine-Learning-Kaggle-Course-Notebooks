@@ -9,3 +9,5 @@ All of my exercise notebook for the Kaggle Machine-Learning-related Courses:
 - Time Series ()
 - Machine Learning Explainability ()
 - Intro to Game AI and Reinforcement Learning (5 notebooks in respective order)
+
+(every commit to the repository is either an addition of a single notebook, organization of a "batch" of notebooks, or a minor change to the documentation)
